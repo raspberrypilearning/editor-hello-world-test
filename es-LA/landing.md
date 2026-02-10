@@ -23,3 +23,5 @@ Click the **Run** button below to start the game. When the dot appears on the ta
   </iframe>
 </div>
 </div>
+
+--- /no-print ---
