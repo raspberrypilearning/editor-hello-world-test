@@ -4,9 +4,9 @@ description: Write an interactive Python project that uses emoji
 meta_title: Python coding projects for kids and teens | Hello world
 meta_description: Learn Python with the Raspberry Pi Foundation. Make an interactive Python coding project that uses emojis.
 version: 4
-listed: true
+listed: false
 copyedit: false
-landing: true
+landing: false
 last_tested: "2021-10-06"
 steps:
   - title: step 1
