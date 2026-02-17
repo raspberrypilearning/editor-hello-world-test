@@ -25,6 +25,16 @@ print(f'Hello')
 
 --- /code ---
 
+> [!NOTE]
+> This is teseting GFM alert styling. 
+> Generally alerts should be short.
+>
+> But occasionally may require more than one paragraph
+
+> [!TIP]
+> Here's a suggestion.
+> Let's see if this works. 
+
 </div>
 
 **Test:** Click the **Run** button. 
