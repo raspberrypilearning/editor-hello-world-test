@@ -25,6 +25,9 @@ print(f'Hello')
 
 --- /code ---
 
+</div>
+
+
 > [!NOTE]
 > This is teseting GFM alert styling. 
 > Generally alerts should be short.
@@ -33,9 +36,8 @@ print(f'Hello')
 
 > [!TIP]
 > Here's a suggestion.
-> Let's see if this works. 
+> Let's see if this works.
 
-</div>
 
 **Test:** Click the **Run** button. 
 This is what you should see when you run your code.
