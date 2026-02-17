@@ -1,5 +1,11 @@
 <h2 class="c-project-heading--task">Print Hello</h2>
 
+--- task ---
+
+➡️ Display the word 'Hello' on the screen
+
+--- /task ---
+
 
 > [!NOTE]
 > This is teseting GFM alert styling. 
@@ -11,12 +17,6 @@
 > Here's a suggestion.
 > Let's see if this works.
 
-
---- task ---
-
-➡️ Display the word 'Hello' on the screen
-
---- /task ---
 
 In Python, `print()`{:.language-python} outputs strings (words or numbers) to the screen.
 
