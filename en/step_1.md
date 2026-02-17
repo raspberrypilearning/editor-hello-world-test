@@ -1,5 +1,17 @@
 <h2 class="c-project-heading--task">Print Hello</h2>
 
+
+> [!NOTE]
+> This is teseting GFM alert styling. 
+> Generally alerts should be short.
+>
+> But occasionally may require more than one paragraph
+
+> [!TIP]
+> Here's a suggestion.
+> Let's see if this works.
+
+
 --- task ---
 
 ➡️ Display the word 'Hello' on the screen
@@ -52,16 +64,4 @@ This also happens when you type an opening apostrophe `'`{:.language-python}.
 If you get an error then check your code really carefully. Check there are single quotes around `Hello`{:.language-python} so Python knows it is meant to be text.
 
 </div>
-
-
-> [!NOTE]
-> This is teseting GFM alert styling. 
-> Generally alerts should be short.
->
-> But occasionally may require more than one paragraph
-
-> [!TIP]
-> Here's a suggestion.
-> Let's see if this works.
-
 
