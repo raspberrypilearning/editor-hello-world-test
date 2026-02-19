@@ -1,6 +1,4 @@
-## Print Hello
-
-<br/>
+<h2 class="c-project-heading--task">Print Hello</h2>
 
 --- task ---
 
