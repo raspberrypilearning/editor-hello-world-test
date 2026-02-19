@@ -1,10 +1,6 @@
 ## Print Hello
 
---- task ---
-
 ➡️ Display the word 'Hello' on the screen
-
---- /task ---
 
 In Python, `print()`{:.language-python} outputs strings (words or numbers) to the screen.
 
