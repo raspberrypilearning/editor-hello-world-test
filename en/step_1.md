@@ -1,12 +1,14 @@
 ## Print Hello
 
+--- task ---
+
 ➡️ Display the word 'Hello' on the screen
+
+--- /task ---
 
 In Python, `print()`{:.language-python} outputs strings (words or numbers) to the screen.
 
 Type the code to `print()`{:.language-python} Hello to the screen:
-
-<div class="c-project-code">
 
 --- code ---
 ---
@@ -20,8 +22,6 @@ line_highlights: 11
 print(f'Hello')
 
 --- /code ---
-
-</div>
 
 **Test:** Click the **Run** button. 
 This is what you should see when you run your code.
