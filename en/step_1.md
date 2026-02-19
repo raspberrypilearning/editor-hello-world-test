@@ -1,22 +1,10 @@
-<h2 class="c-project-heading--task">Print Hello</h2>
+## Print Hello
 
 --- task ---
 
 ➡️ Display the word 'Hello' on the screen
 
 --- /task ---
-
-
-> [!NOTE]
-> This is teseting GFM alert styling. 
-> Generally alerts should be short.
->
-> But occasionally may require more than one paragraph
-
-> [!TIP]
-> Here's a suggestion.
-> Let's see if this works.
-
 
 In Python, `print()`{:.language-python} outputs strings (words or numbers) to the screen.
 
