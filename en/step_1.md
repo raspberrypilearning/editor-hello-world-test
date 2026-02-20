@@ -32,20 +32,14 @@ Hello
 ```
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
 
-### Tip
+> ### Tip
+> 
+> When you type an opening bracket `(`{:.language-python} the code editor will automatically add a closing bracket `)`{:.language-python} 
+This also happens when you type an opening apostrophe `'`{:.language-python}. {: .c-project-callout .c-project-callout--tip}
 
-When you type an opening bracket `(`{:.language-python} the code editor will automatically add a closing bracket `)`{:.language-python} 
-This also happens when you type an opening apostrophe `'`{:.language-python}.
 
-</div>
-
-<div class="c-project-callout c-project-callout--debug">
-
-### Debugging
-
-If you get an error then check your code really carefully. Check there are single quotes around `Hello`{:.language-python} so Python knows it is meant to be text.
-
-</div>
+> ### Debugging
+> 
+> If you get an error then check your code really carefully. Check there are single quotes around `Hello`{:.language-python} so Python knows it is meant to be text. {: .c-project-callout .c-project-callout--debug}
 
