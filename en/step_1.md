@@ -19,7 +19,7 @@ print(f'Hello')
 
 --- /code ---
 
-**Test:** Click the **Run** button. 
+### Now run your code
 This is what you should see when you run your code.
 
 <div class="c-project-output">
