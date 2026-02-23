@@ -6,7 +6,7 @@ meta_description: Learn Python with the Raspberry Pi Foundation. Make an interac
 version: 4
 listed: false
 copyedit: false
-landing: false
+landing: true
 last_tested: "2021-10-06"
 steps:
   - title: step 1
