@@ -35,7 +35,6 @@ print(f'Hello')
 --- code ---
 ---
 language: python
-filename: main.py
 line_numbers: true
 line_number_start: 3
 line_highlights: 11-12
