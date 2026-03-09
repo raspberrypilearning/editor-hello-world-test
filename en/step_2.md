@@ -43,6 +43,7 @@ line_highlights: 11-12
 --- /code --- 
 
 --- task ---
+
 If the player enters a room with a monster in, the game ends.
 
 Click Stop and then Run and type go south. Test out your code by going into the Kitchen, which now contains a monster.
